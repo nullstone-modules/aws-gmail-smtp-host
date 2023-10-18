@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-gmail-smtp-host
+friendly_name: Gmail SMTP Host
+description: Stores configuration for connecting to gmail as an SMTP host
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: gmail
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
